@@ -24,11 +24,11 @@ h2 {
 
 }
 
-.conteiner{
+.container{
 
      max-width: 888px;
      margin: auto;
-     padding: 31px;
+     padding: 30px;
 
 
 
@@ -60,25 +60,72 @@ h2 {
 
 }
 
-.socialicons{
+.social-icons{
+    margin-top: 10px;
+    
+     
 
 
 }
 
 
 
-.socialicon{
+.social-icon{
 
+    width: 20px;
+    padding: 10px 10px 10px 0px;
 
 
 
 
 
 }
+.content{
+    max-width: 648px;
+    margin: auto;
+         
+
+
+}
+
+p{
+    font-size: 20px;
+    line-height: 32px;
 
 
 
+}
+a{
+   text-decoration: none;
+   color: #fd8a24;
+   font-weight: 700;
 
+
+}
+.cta{
+    font-size: 20px;
+    margin: 30px 0px;
+}
+
+figure{
+    padding:0px;
+    margin: 40px 0;
+    font-size: 12px;
+
+}
+
+figure>img{ 
+
+    width: 100%;
+
+}
+
+.footer{ 
+    background-color: #333;
+    height: 100px;
+
+
+}
 
 
 
